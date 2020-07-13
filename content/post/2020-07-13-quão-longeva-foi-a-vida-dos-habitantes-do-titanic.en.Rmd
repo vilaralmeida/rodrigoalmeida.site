@@ -1,0 +1,12 @@
+---
+title: Quão longeva foi a vida dos Habitantes do Titanic?
+author: Rodrigo Almeida
+date: '2020-07-13'
+slug: quão-longeva-foi-a-vida-dos-habitantes-do-titanic
+categories:
+  - R
+  - Visualização
+tags: []
+images: []
+authors: []
+---
